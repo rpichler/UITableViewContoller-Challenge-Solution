@@ -1,5 +1,5 @@
 //
-//  RJPViewController.h
+//  RJPTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Regan Pichler on 2014-05-12.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RJPViewController : UIViewController
+@interface RJPTableViewController : UITableViewController
 
 @end
